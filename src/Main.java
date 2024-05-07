@@ -19,6 +19,6 @@ public class Main {
             System.out.println("Возраст:"+ randomAge + " Температура: " + randomTemperature
                     + permission(randomAge, randomTemperature));
         }
-    }
+    } // second time 2
 
 }
